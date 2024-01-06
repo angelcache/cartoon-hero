@@ -1,0 +1,84 @@
+/* BODY */
+body{
+    margin: 0;
+    background-color: lightgoldenrodyellow;
+    font-size: 20px;
+}
+
+/* HEADER */
+header{
+    background-color: rgb(209, 199, 184);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    line-height: 30 px;
+}
+
+header h1{
+    font-size: 50px;
+    font-family: 'Rubik Doodle Shadow', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+header img{
+    border-radius: 170px;
+    width: 300px;
+    border: 15px solid rgb(254, 225, 255);
+}
+
+/* MAIN */
+main{
+    max-width: 800px; 
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main img{
+    min-width: 50%;
+}
+
+h2{
+    font-family: 'Rubik Doodle Shadow' , system-ui;
+    color: rgb(228, 200, 228);
+    font-size: 35px;
+    margin: 40px 0 10px;
+}
+
+p, li{
+    font-family: 'Nunito', sans-serif;
+    color: rgb(94, 96, 99);
+}
+
+a{
+    font-family: 'Nunito', sans-serif;
+    color: rgb(228, 200, 228);
+}
+
+a:hover{
+    color: rgb(255, 207, 168);
+}
+
+ol img{
+    padding: 30px 0 0;
+}
+
+
+/* FOOTER */
+footer {
+    background-color: rgb(209, 199, 184);
+    text-align: center;
+    color: lightgoldenrodyellow;
+    padding: 50px;
+}
+
+footer p{
+    margin: 0;
+}
+footer a{
+    color: rgb(255, 255, 255);
+}
+
+footer a:hover{
+    opacity: .5;
+    background-color: transparent;
+}
